@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"first_name": "xxxx",
+		"last_name": "yyyy",
+		"interview_salary": 3800
+	},
+	{
+		"id": 2,
+		"first_name": "xxxx",
+		"last_name": "yyyy",
+		"interview_salary": 3800
+	},
+	{
+		"id": 3,
+		"first_name": "xxxx",
+		"last_name": "yyyy",
+		"interview_salary": 3800
+	},
+	{
+		"id": 4,
+		"first_name": "xxxx",
+		"last_name": "yyyy",
+		"interview_salary": 3800
+	},
+	{
+		"id": 5,
+		"first_name": "xxxx",
+		"last_name": "yyyy",
+		"interview_salary": 3800
+	},
+	{
+		"id": 6,
+		"first_name": "xxxx",
+		"last_name": "yyyy",
+		"interview_salary": 3800
+	}
+]

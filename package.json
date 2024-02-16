@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@splidejs/react-splide": "^0.7.12"
+  }
+}
